@@ -38,7 +38,8 @@ This project is to create a porfolio site using React as a Single Page Applicati
 ## Mock-up image of Porfolio page
 The following animation shows the web application's appearance and functionality:
 
-![](assets/docs/02-advanced-css-homework-demo-1.gif)
+-----Placeholder
+<!-- ![](assets/docs/02-advanced-css-homework-demo-1.gif) -->
 
 ## Github Repository
 All files and changes made are located on github at the following location:
@@ -50,20 +51,6 @@ A copy of this README.md file is also at the github location.
 ## Application Live URL
 https://htang2021.github.io/hungtang-portfolio/
 
-## Deploy Your Project
 
-This instruction below assumes that a project and repo were created early on and that they are already linked.
-1. Login to github and go to the project repo (https://github.com/htang2021/hungtang-portfolio).
-
-2. Click on "Settings" in the repo menu, also shown in the screenshot below:
-![](assets/docs/repo-settings.png)
-
-3. Scroll down to the GitHub Pages section and select branch where the site will be built from, will either be "master" or "main" and with folder in /root.  Click on "Save" button.
-![](assets/docs/htang-porfolio-deploy.png)
-
-4. As shown in the image from 3, if saved successfully, GitHub will return a live site URL:
-https://htang2021.github.io/htang-porfolio/
-
-If you do not see a clear indication that the site is "published", give it a minute for the backend to allocate resources to launch it.  Once you see "Your site is published at https://....", it's golden!
 
 End of README.md - updated by Hung Tang on 6/20/21
