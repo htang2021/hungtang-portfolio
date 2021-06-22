@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 function App() {
 
   const [categories] = useState([
-    { name: 'portfolio' },
+    { name: 'projects' },
     { name: 'resume' },
     { name: 'contact' }
   ]);
